@@ -6,7 +6,14 @@ A Jupyter dashboard that turns a music CSV into a relational SQLite database and
 
 ## More portfolio projects
 
-Explore **[10 additional analytics and data science projects](projects/README.md)**, with runnable code, charts, measured results, and documented sample-data provenance.
+| Repository | Focus |
+| --- | --- |
+| [Bank campaign response](https://github.com/Shailesh14-spec/bank-campaign-response) | Public-data modelling, chronological evaluation and drift |
+| [Bike demand forecasting](https://github.com/Shailesh14-spec/bike-demand-forecasting) | Public-data forecasting and baseline comparison |
+| [Ecommerce conversion SQL](https://github.com/Shailesh14-spec/ecommerce-conversion-sql) | SQL scorecards, uncertainty and conversion analysis |
+| [Analytics learning lab](https://github.com/Shailesh14-spec/data-analytics-learning-lab) | Ten synthetic-data learning exercises |
+
+The learning exercises have moved to their own repository so this repository stays focused on music analytics.
 
 ## What you can explore
 

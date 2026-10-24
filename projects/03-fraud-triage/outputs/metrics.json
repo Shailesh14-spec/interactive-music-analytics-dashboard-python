@@ -1,8 +1,0 @@
-{
-  "test_average_precision": 0.6243481995890414,
-  "prevalence_baseline": 0.0255,
-  "validation_threshold": 0.08895651257358085,
-  "test_review_rate": 0.041,
-  "precision": 0.3902439024390244,
-  "recall": 0.6274509803921569
-}
