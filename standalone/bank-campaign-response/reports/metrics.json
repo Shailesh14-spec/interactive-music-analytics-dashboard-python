@@ -1,0 +1,21 @@
+{
+  "rows": 41188,
+  "train_rows": 24712,
+  "validation_rows": 8238,
+  "test_rows": 8238,
+  "selected_model": "random_forest",
+  "test_prevalence": 0.3083272638990046,
+  "test_average_precision": 0.30986316210133424,
+  "average_precision_bootstrap_95_ci": [
+    0.29585926127161816,
+    0.32529603478853686
+  ],
+  "test_roc_auc": 0.47669910425815937,
+  "test_brier": 0.2533740577351723,
+  "constant_prior_brier": 0.28099342234858143,
+  "validation_90th_percentile_threshold": 0.11244126350491604,
+  "test_review_share": 0.23512988589463463,
+  "test_precision_at_threshold": 0.3319566339700568,
+  "test_recall_at_threshold": 0.2531496062992126,
+  "precision_lift_over_test_prevalence": 1.0766373034036725
+}

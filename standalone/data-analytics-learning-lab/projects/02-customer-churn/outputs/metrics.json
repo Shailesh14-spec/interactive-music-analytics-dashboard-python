@@ -1,0 +1,6 @@
+{
+  "test_roc_auc": 0.773344726135801,
+  "test_average_precision": 0.5220668028228053,
+  "baseline_average_precision": 0.24133333333333334,
+  "test_rows": 750
+}

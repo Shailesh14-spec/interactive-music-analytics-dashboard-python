@@ -1,0 +1,7 @@
+{
+  "url": "https://archive.ics.uci.edu/static/public/275/bike+sharing+dataset.zip",
+  "nested": null,
+  "member": "day.csv",
+  "target": "day.csv",
+  "sha256": "a6bcf826782d3c0fbfdcbeead17cd0884185a0dafe8ff10cd48a874ee7ba18be"
+}

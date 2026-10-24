@@ -1,0 +1,3 @@
+model,validation_mae
+ridge,696.0628823707817
+gradient_boosting,833.4533051959967

@@ -1,0 +1,19 @@
+{
+  "raw_days": 731,
+  "train_days": 523,
+  "validation_days": 90,
+  "test_days": 90,
+  "selected_model": "ridge",
+  "test_start": "2012-10-03",
+  "test_end": "2012-12-31",
+  "test_mae": 977.7297272161647,
+  "seasonal_naive_mae": 1450.4555555555555,
+  "mae_improvement_percent": 32.59154177656458,
+  "test_rmse": 1368.3914767669517,
+  "mae_difference_7day_block_bootstrap_95_ci": [
+    -820.1151116028254,
+    -138.16034355087456
+  ],
+  "validation_residual_90pct_radius": 1540.6985117222378,
+  "test_empirical_interval_coverage": 0.8111111111111111
+}

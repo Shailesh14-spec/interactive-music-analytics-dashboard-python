@@ -1,0 +1,7 @@
+{
+  "rows": 12330,
+  "missing_cells": 0,
+  "exact_duplicate_feature_rows": 125,
+  "duplicate_policy": "preserve: no session identifier available",
+  "revenue_is_boolean_not_money": true
+}

@@ -1,0 +1,10 @@
+{
+  "customers": 599,
+  "transactions": 6000,
+  "total_revenue": 360622.82174566924,
+  "segments": {
+    "Developing": 288,
+    "High engagement": 162,
+    "Lapsed": 149
+  }
+}

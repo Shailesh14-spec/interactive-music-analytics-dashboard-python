@@ -1,0 +1,7 @@
+{
+  "url": "https://archive.ics.uci.edu/static/public/468/online+shoppers+purchasing+intention+dataset.zip",
+  "nested": null,
+  "member": "online_shoppers_intention.csv",
+  "target": "online_shoppers_intention.csv",
+  "sha256": "b3055ee355f59134d851d32641183cb4a8b45def7124d2f50442a042f358e0d9"
+}

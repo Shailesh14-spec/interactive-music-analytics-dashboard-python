@@ -1,0 +1,5 @@
+{
+  "model_mae": 9.69850684877557,
+  "seasonal_naive_mae": 10.429562518039576,
+  "holdout_days": 60
+}

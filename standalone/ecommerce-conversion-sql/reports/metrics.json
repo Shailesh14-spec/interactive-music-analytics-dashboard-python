@@ -1,0 +1,13 @@
+{
+  "sessions": 12330,
+  "conversions": 1908,
+  "overall_conversion_rate": 0.15474452554744525,
+  "visitor_type_chi_square": 135.2519228192047,
+  "visitor_type_p_value": 4.269904152293867e-30,
+  "visitor_type_cramers_v": 0.10473460176130583,
+  "chi_square_min_expected_cell": 13.153284671532846,
+  "overall_wilson_95_ci": [
+    0.14846839560921418,
+    0.16123572771923841
+  ]
+}
