@@ -4,6 +4,10 @@
 
 A Jupyter dashboard that turns a music CSV into a relational SQLite database and exposes analysis through sliders, text inputs, tables, and charts. Developed as a coursework project and maintained as a data analytics portfolio example.
 
+## More portfolio projects
+
+Explore **[10 additional analytics and data science projects](projects/README.md)**, with runnable code, charts, measured results, and documented sample-data provenance.
+
 ## What you can explore
 
 | Question | Method | Output |

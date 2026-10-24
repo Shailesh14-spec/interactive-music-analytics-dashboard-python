@@ -1,0 +1,6 @@
+{
+  "macro_f1": 1.0,
+  "baseline_macro_f1": 0.16666666666666666,
+  "train_documents": 252,
+  "test_documents": 108
+}
